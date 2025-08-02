@@ -9,3 +9,5 @@ console.log("Fn called ")
 
 console.log("adding new commit after payment branch")
 console.log("Latest changes")
+// fixing the buges
+console.log("Buges fixed by me")
